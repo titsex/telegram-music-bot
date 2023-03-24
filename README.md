@@ -4,6 +4,8 @@ A telegram bot that searches for music on the specified request and returns it.
 # Example
 To check, you can use this bot: https://t.me/extensive_music_bot
 
+Note: It only responds to plain text. Slash commands, stickers, etc. are ignored!
+
 # Installation
 First, make a clone of this repository and go to the bot folder.
 
